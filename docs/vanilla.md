@@ -1,7 +1,7 @@
 # Vanilla JS
 > Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
 
-[vanilla-js.com](http://vanilla-js.com)
+* [vanilla-js.com](http://vanilla-js.com)
 
 ### Table of Contents
 * [Number vs parseInt](#number-vs-parseint)
