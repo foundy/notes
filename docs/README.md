@@ -6,3 +6,4 @@ Collect development related information.
 
 * [Express](express)
 * [NPM](npm)
+* [Vanilla JS](vanilla)
