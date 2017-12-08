@@ -4,6 +4,6 @@ Collect development related information.
 
 ## Collection
 
-* [Express](express)
-* [NPM](npm)
+* [Express](express.md)
+* [NPM](npm.md)
 * [Vanilla JS](vanilla.md)
