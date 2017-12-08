@@ -1,9 +1,8 @@
 # NPM
 > npm makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
 
-### Links
-* https://www.npmjs.com
-* https://github.com/npm/npm
+* [www.npmjs.com](https://www.npmjs.com)
+* [github.com/npm/npm](https://github.com/npm/npm)
 
 ### Table of Contents
 * [NPM 버전 업데이트](#NPM-버전-업데이트)
