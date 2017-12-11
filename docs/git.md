@@ -10,7 +10,7 @@
 
 ## Shortcuts
 * [`$ git checkout -`](#-git-checkout--)
-* [`$ git push origin :feature/mybranch`](#-git-push-origin-:feature/mybranch)
+* [`$ git push origin :feature/mybranch`](#-git-push-origin-featuremybranch)
 * [`$ git add -u`](#-git-add--u)
 * [`$ git fetch -p`](#-git-fetch--p)
 
