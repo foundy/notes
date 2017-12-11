@@ -7,7 +7,7 @@
 ## Monitoring
 * [Keymetrics](#keymetrics)
 * [New Relic](new-relic)
-* [N|Solid](#nsolid)
+* [NSolid](#nsolid)
 * [Sentry](#sentry)
 * [WhaTap](#whatap) (국내)
 
