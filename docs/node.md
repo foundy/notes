@@ -13,7 +13,7 @@
 
 ## Monitoring Reference
 * [The Definitive Guide for Monitoring Node.js Applications](https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/)
-* [기업용 Node.js 플랫폼 N|Solid 사용해보기](https://blog.outsider.ne.kr/1231) (Outsider님)
+* [기업용 Node.js 플랫폼 NSolid 사용해보기](https://blog.outsider.ne.kr/1231) (Outsider님)
 
 ---
 
