@@ -10,7 +10,7 @@
 * [next() and next('route')](#next()-and-next('route'))
 
 ## Shortcuts
-* [`$ git checkout -`](`$-git-checkout--`)
+* [`$ git checkout -`](#`$-git-checkout--`)
 
 ## Reference
 * [GitHub/GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
