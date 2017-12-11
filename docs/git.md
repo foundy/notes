@@ -10,6 +10,9 @@
 
 ## Shortcuts
 * [`$ git checkout -`](#-git-checkout--)
+* [`$ git push origin :feature/mybranch`](#-git-push-origin-:feature/mybranch)
+* [`$ git add -u`](#-git-add--u)
+* [`$ git fetch -p`](#-git-fetch--p)
 
 ## Reference
 * [GitHub/GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
