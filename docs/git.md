@@ -7,10 +7,9 @@
 ## Table of Contents
 * [리모트 저장소 변경](#리모트-저장소-변경)
 * [이전 커밋의 author 변경](#이전-커밋의-author-변경)
-* [next() and next('route')](#next()-and-next('route'))
 
 ## Shortcuts
-* [`$ git checkout -`](#`$-git-checkout--`)
+* [`$ git checkout -`](#-git-checkout--)
 
 ## Reference
 * [GitHub/GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
