@@ -9,7 +9,7 @@
 
 ## Reference
 * [Express Middleware](http://expressjs.com/en/resources/middleware.html)
-  * expressjs팀에서 관리하는 미들웨어 목록입니다.
+  * expressjs팀에서 관리하는 미들웨어 목록입니다.
 * [express-route-tester](http://forbeslindesay.github.io/express-route-tester/)
 
 ---
