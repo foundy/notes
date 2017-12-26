@@ -9,3 +9,4 @@ Collect development related information.
 * [Vanilla JS](vanilla.md)
 * [GIT](git.md)
 * [Node](node.md)
+* [Visual Studio Code](vscode.md)
