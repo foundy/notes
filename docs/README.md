@@ -10,3 +10,4 @@ Collect development related information.
 * [GIT](git.md)
 * [Node](node.md)
 * [Visual Studio Code](vscode.md)
+* [Joi validator](joi.md)
