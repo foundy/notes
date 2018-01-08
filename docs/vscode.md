@@ -7,7 +7,7 @@
 * [Mac에서 터미널에 `code` 명령어 PATH 설정하기](#Mac에서-터미널에-`code`-명령어-PATH-설정하기)
 
 ## Shortcuts
-* `shift+cmd+p`: [모든 명령 표시](모든-명령-표시)
+* `shift+cmd+p`: [모든 명령 표시](#모든-명령-표시)
 
 ## References
 * [Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
