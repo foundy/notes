@@ -3,6 +3,9 @@
 
 * [code.visualstudio.com](http://code.visualstudio.com)
 
+## Tips
+* [Mac에서 터미널에 `code` 명령어 PATH 설정하기](#Mac에서-터미널에-`code`-명령어-PATH-설정하기)
+
 ## Shortcuts
 * `shift+cmd+p`: [모든 명령 표시](모든-명령-표시)
 
@@ -15,3 +18,8 @@
 
 ### 모든 명령 표시
 
+# Mac에서 터미널에 `code` 명령어 PATH 설정하기
+[Running VS Code on Mac](https://code.visualstudio.com/docs/setup/mac)
+```bash
+export PATH="$PATH:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/"
+```
