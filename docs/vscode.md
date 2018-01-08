@@ -17,8 +17,9 @@
 ## Shortcuts description
 
 ### 모든 명령 표시
+모든 명령을 표시합니다. `cmd+p`로 Quick Open을 띄우고 `>`를 입력해도 동일한 기능이 동작합니다.
 
-# Mac에서 터미널에 `code` 명령어 PATH 설정하기
+### Mac에서 터미널에 `code` 명령어 PATH 설정하기
 [Running VS Code on Mac](https://code.visualstudio.com/docs/setup/mac)
 ```bash
 export PATH="$PATH:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/"
