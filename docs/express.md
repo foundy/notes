@@ -7,7 +7,7 @@
 ## Table of Contents
 * [next() and next('route')](#next()-and-next('route'))
 * [gzip 압축](#gzip-압축)
-* [에러 핸들러에서의 req.params 소멸](#에러-핸들러에서의-req.params-소멸)
+* [에러 핸들러에서의 req.params 소멸](#에러-핸들러에서의-reqparams-소멸)
 
 ## Reference
 * [Express Middleware](http://expressjs.com/en/resources/middleware.html)
@@ -56,7 +56,7 @@ express 사용시 주로 [compression](https://github.com/expressjs/compression)
 에러 핸들러에서의 req.params은 빈값이 나온다.  
 이유인 즉슨 에러 핸들러 내에서의 req.params는 더 이상 의미가 없는 값이라고 한다.
 
-```
+```javascript
 // e.g.  POST /user/myid
 router.route('/user/:id')
   .post((req, res, next) => {
@@ -67,7 +67,9 @@ router.route('/user/:id')
   .post((req, res, next) => {
     res.send('test');
   });
+
 ...
+
 function errorHandler(err, req, res, next) {
   console.log('req.params', req.params); // {}
   res.send('Error');
