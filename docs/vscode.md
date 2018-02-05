@@ -3,7 +3,15 @@
 
 * [code.visualstudio.com](http://code.visualstudio.com)
 
-## Extensions
+## Table of Contents
+
+### Tips
+* [Mac에서 터미널에 `code` 명령어 PATH 설정하기](#Mac에서-터미널에-`code`-명령어-PATH-설정하기)
+
+### Shortcuts
+* `shift+cmd+p`: [모든 명령 표시](#모든-명령-표시)
+
+### Extensions
 * [Active File In StatusBar](https://marketplace.visualstudio.com/items?itemName=RoscoP.ActiveFileInStatusBar)
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
@@ -18,24 +26,36 @@
 * [toggle semicolon](https://marketplace.visualstudio.com/items?itemName=awesomektvn.toggle-semicolon)
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
-## Tips
-* [Mac에서 터미널에 `code` 명령어 PATH 설정하기](#Mac에서-터미널에-`code`-명령어-PATH-설정하기)
-
-## Shortcuts
-* `shift+cmd+p`: [모든 명령 표시](#모든-명령-표시)
-
 ## References
 * [Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ---
 
-## Shortcuts description
-
-### 모든 명령 표시
-모든 명령을 표시합니다. `cmd+p`로 Quick Open을 띄우고 `>`를 입력해도 동일한 기능이 동작합니다.
+## Tips
 
 ### Mac에서 터미널에 `code` 명령어 PATH 설정하기
 [Running VS Code on Mac](https://code.visualstudio.com/docs/setup/mac)
 ```bash
 export PATH="$PATH:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/"
 ```
+
+---
+
+## Shortcuts
+
+### 모든 명령 표시
+모든 명령을 표시합니다. <kbd>Command</kbd> + <kbd>P</kbd>로 Quick Open을 띄우고 <kbd>></kbd>를 입력해도 동일한 기능이 동작됩니다.
+
+---
+
+## Extensions
+
+### Bookmarks
+
+북마크 기능을 제공합니다. [vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks)
+
+#### Bookmarks shortcuts
+
+* <kbd>Option</kbd> + <kbd>Command</kbd> + <kbd>K</kbd> - 토글
+* <kbd>Option</kbd> + <kbd>Command</kbd> + <kbd>L</kbd> - 다음 북마크로 건너뛰기
+* <kbd>Option</kbd> + <kbd>Command</kbd> + <kbd>J</kbd> - 이전 북마크로 건너뛰기
