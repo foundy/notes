@@ -26,6 +26,7 @@
 * Node 버전 관리
   * [nvm](https://github.com/creationix/nvm)
   * [n](https://github.com/tj/n)
+    * `NODE_MIRROR`, `IO_MIRROR`를 사용하여 **mirror** 서버로 proxy가 가능하다.
 
 ---
 
