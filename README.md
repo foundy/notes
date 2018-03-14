@@ -1,3 +1,3 @@
-# notes
+# Notes
 
-개발 관련 노트입니다.
+Foundy's dev notes.
