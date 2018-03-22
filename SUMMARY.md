@@ -14,6 +14,7 @@
 * [Node JS](nodejs/README.md)
 * [NPM](npm/README.md)
   * [Update NPM](npm/update-npm.md)
+  * [Scope](npm/scope.md)
 * [Vanilla JS](vanilla/README.md)
 * [Visual Studio Code](vscode/README.md)
 
