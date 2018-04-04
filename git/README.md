@@ -12,3 +12,4 @@
 * [Pro GIT](https://git-scm.com/book/ko/v2) \(한글\)
 * [github/gitignore](https://github.com/github/gitignore) 유용한 gitignore 템플릿 모음
 * [gitignore.io](https://www.gitignore.io) gitignore 템플릿 생성
+* [semantic commit messages with emojis](https://medium.com/walmartlabs/semantic-commit-messages-with-emojis-dba2541cea9a)
